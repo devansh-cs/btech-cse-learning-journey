@@ -16,4 +16,4 @@ as I build strong foundations in Computer Science.
 - Object-Oriented Programming
 - Git & GitHub
 
- This repository will be updated regularly as I progress.
+📌 This repository will be updated regularly as I progress.
